@@ -22,7 +22,3 @@ _testmain.go
 *.exe
 *.test
 
-# editors and IDEs
-
-urlshot.sublime-project
-urlshot.sublime-workspace
